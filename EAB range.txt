@@ -1,0 +1,635 @@
+Country,Region,Locality,Latitude,Longitude,Source of information
+Canada,Ontario,"Canada:Ontario, Point Pelee, Point Pelee National Park",41.68,-82.68,GBIF 2020
+Canada,Ontario,"Point Pelee NP|15km SE of Leamington|West Beach Shoreline and Brush, Lake Erie",41.93,-82.51,GBIF 2020
+Canada,Ontario,"Wheatley Prov. Pk., Old Sewage Lagoon",42.09028,-82.45167,GBIF 2020
+Canada,Ontario,"La Salle, Brunet Pk., Seventh St. hill",42.24056,-83.04389,GBIF 2020
+Canada,Ontario,"Windsor, CFIA ash wood disposal site",42.26225,-83.09361,GBIF 2020
+Canada,Ontario,"Windsor, Broadway Pk., ball diamond",42.27139,-83.08556,GBIF 2020
+Canada,Ontario,,42.286817,-81.856384,GBIF 2020
+Canada,Ontario,"Essex, Windsor",42.302,-82.994,GBIF 2020
+Canada,Ontario,"Windsor, Broadway Pk. & Black Oak Savannah Pk",42.30278,-82.99306,GBIF 2020
+Canada,Ontario,"Windsor, Broadway Pk.",42.30278,-82.99306,GBIF 2020
+Canada,Ontario,,42.634738,-80.809712,GBIF 2020
+Canada,Ontario,"Front Rd. ~900 m SW of Turkey Point Rd., C.C.S.N.-13",42.69508,-80.3452,GBIF 2020
+Canada,Ontario,"Gibson Rd. ~550 m NW of Front Rd., C.C.S.N.-12",42.69988,-80.3463,GBIF 2020
+Canada,Ontario,"Charlotteville 1 Rd. ~1.2 km SW of Turkey Point Rd., C.C.S.N.-6",42.70452,-80.35848,GBIF 2020
+Canada,Ontario,"Charlotteville 1 Rd. ~800 m SW Turkey Point Rd., C.C.S.N.-11",42.70725,-80.35435,GBIF 2020
+Canada,Ontario,"Charlotte 2 Rd. ~480 m E of Charlotteville West Quarterline Rd., C.C.S.N.-5",42.70758,-80.38827,GBIF 2020
+Canada,Ontario,"Charlotte 2 Rd. ~1.2 km W of Turkey Point Rd., C.C.S.N.-3",42.71732,-80.36697,GBIF 2020
+Canada,Ontario,"Normandale Fish Hatchery Station, C.C.S.N.-7",42.71855,-80.33985,GBIF 2020
+Canada,Ontario,"Turkey Point Rd. ~250 m S of Charlotte 2 Rd., C.C.S.N.-4",42.7202,-80.35282,GBIF 2020
+Canada,Ontario,"Charlotte 2 Rd. ~290 m W of Turkey Point Rd., C.C.S.N.-2",42.72085,-80.35793,GBIF 2020
+Canada,Ontario,"Charlotteville 2 Rd., ~1.9 km NE of Turkey Point Rd., C.C.S.N.-9",42.73102,-80.3342,GBIF 2020
+Canada,Ontario,,43.008333,-81.270278,GBIF 2020
+Canada,Ontario,,43.167895,-80.665169,GBIF 2020
+Canada,Ontario,,43.196178,-80.205869,GBIF 2020
+Canada,Ontario,,43.199039,-79.652657,GBIF 2020
+Canada,Ontario,,43.199257,-79.653877,GBIF 2020
+Canada,Ontario,,43.202175,-79.671486,GBIF 2020
+Canada,Ontario,,43.211338,-79.762668,GBIF 2020
+Canada,Ontario,,43.212561,-79.744543,GBIF 2020
+Canada,Ontario,,43.213384,-79.769098,GBIF 2020
+Canada,Ontario,,43.224728,-79.89304,GBIF 2020
+Canada,Ontario,"Hamilton, nr. 374 E 24th St., C.C.S.H.-8",43.2263,-79.85727,GBIF 2020
+Canada,Ontario,"Hamilton, nr. 374 E 24th St., C.C.S.H.-8",43.2263,-79.85727,GBIF 2020
+Canada,Ontario,"Hamilton, nr. 394 E 14th St., C.C.S.H.-15a",43.23147,-79.86555,GBIF 2020
+Canada,Ontario,"Hamilton, nr. 253 E 22nd St., C.C.S.H.-9",43.23398,-79.85477,GBIF 2020
+Canada,Ontario,,43.280702,-79.907047,GBIF 2020
+Canada,Ontario,,43.314593,-79.966001,GBIF 2020
+Canada,Ontario,,43.377955,-79.858434,GBIF 2020
+Canada,Ontario,,43.378981,-80.448439,GBIF 2020
+Canada,Ontario,,43.385679,-80.804819,GBIF 2020
+Canada,Ontario,,43.406355,-79.771315,GBIF 2020
+Canada,Ontario,,43.449218,-80.560584,GBIF 2020
+Canada,Ontario,,43.460835,-80.550835,GBIF 2020
+Canada,Ontario,,43.465252,-80.614568,GBIF 2020
+Canada,Ontario,,43.478032,-80.580441,GBIF 2020
+Canada,Ontario,,43.486697,-80.563929,GBIF 2020
+Canada,Ontario,,43.494947,-80.582525,GBIF 2020
+Canada,Ontario,,43.50551,-80.520129,GBIF 2020
+Canada,Ontario,,43.508527,-79.901191,GBIF 2020
+Canada,Ontario,,43.511337,-80.221725,GBIF 2020
+Canada,Ontario,,43.51652,-79.6079,GBIF 2020
+Canada,Ontario,,43.543261,-80.227189,GBIF 2020
+Canada,Ontario,,43.558666,-80.219879,GBIF 2020
+Canada,Ontario,,43.565685,-79.675292,GBIF 2020
+Canada,Ontario,,43.566726,-79.67047,GBIF 2020
+Canada,Ontario,,43.571945,-80.258057,GBIF 2020
+Canada,Ontario,,43.573678,-80.257968,GBIF 2020
+Canada,Ontario,,43.574663,-80.259645,GBIF 2020
+Canada,Ontario,,43.590461,-79.772209,GBIF 2020
+Canada,Ontario,,43.626885,-79.737139,GBIF 2020
+Canada,Ontario,,43.639282,-79.981193,GBIF 2020
+Canada,Ontario,,43.642287,-79.879017,GBIF 2020
+Canada,Ontario,,43.649975,-79.403709,GBIF 2020
+Canada,Ontario,,43.656375,-79.447407,GBIF 2020
+Canada,Ontario,,43.678375,-80.44085,GBIF 2020
+Canada,Ontario,Normandale: Normandale Fish Hatchery Station,43.701944,-80.339722,GBIF 2020
+Canada,Ontario,,43.867258,-78.856727,GBIF 2020
+Canada,Ontario,,43.927609,-79.921607,GBIF 2020
+Canada,Ontario,,43.943438,-79.351638,GBIF 2020
+Canada,Ontario,,44.009755,-77.758464,GBIF 2020
+Canada,Ontario,,44.038228,-79.945442,GBIF 2020
+Canada,Ontario,,44.043122,-79.945526,GBIF 2020
+Canada,Ontario,,44.043164,-79.945442,GBIF 2020
+Canada,Ontario,,44.050582,-78.742753,GBIF 2020
+Canada,Ontario,,44.053384,-78.74726,GBIF 2020
+Canada,Ontario,,44.118656,-79.487244,GBIF 2020
+Canada,Ontario,,44.222243,-76.500736,GBIF 2020
+Canada,Ontario,,44.24278,-76.535186,GBIF 2020
+Canada,Ontario,,44.245908,-76.536747,GBIF 2020
+Canada,Ontario,,44.298624,-78.351245,GBIF 2020
+Canada,Ontario,,44.327969,-76.165483,GBIF 2020
+Canada,Ontario,,44.34993,-78.73317,GBIF 2020
+Canada,Ontario,,44.359487,-78.287106,GBIF 2020
+Canada,Ontario,,44.37484,-78.288935,GBIF 2020
+Canada,Ontario,,44.379054,-78.435319,GBIF 2020
+Canada,Ontario,,44.454884,-75.86554,GBIF 2020
+Canada,Ontario,,44.470183,-76.046486,GBIF 2020
+Canada,Ontario,,44.477633,-78.343129,GBIF 2020
+Canada,Ontario,,44.480352,-77.30015,GBIF 2020
+Canada,Ontario,,44.611725,-81.270737,GBIF 2020
+Canada,Ontario,,44.711113,-79.148888,GBIF 2020
+Canada,Nova Scotia,,44.715817,-63.672212,GBIF 2020
+Canada,Nova Scotia,,44.719733,-63.67136,GBIF 2020
+Canada,Ontario,,44.781224,-76.22311,GBIF 2020
+Canada,Ontario,,44.810166,-75.98413,GBIF 2020
+Canada,Ontario,,44.822171,-76.085982,GBIF 2020
+Canada,Ontario,,44.860067,-78.820529,GBIF 2020
+Canada,Ontario,,44.868144,-76.013722,GBIF 2020
+Canada,Ontario,,44.891321,-76.113648,GBIF 2020
+Canada,Ontario,,44.902666,-76.117257,GBIF 2020
+Canada,Ontario,,44.902781,-76.096044,GBIF 2020
+Canada,Ontario,,44.90597,-76.030774,GBIF 2020
+Canada,Ontario,,44.911357,-76.06127,GBIF 2020
+Canada,Ontario,,44.912264,-76.06753,GBIF 2020
+Canada,Ontario,,44.920599,-76.026329,GBIF 2020
+Canada,Ontario,,44.929957,-76.081012,GBIF 2020
+Canada,Ontario,,44.953312,-76.038322,GBIF 2020
+Canada,Ontario,,45.018081,-76.05856,GBIF 2020
+Canada,Ontario,,45.098597,-75.979783,GBIF 2020
+Canada,Ontario,,45.125015,-75.948777,GBIF 2020
+Canada,Ontario,,45.15969,-76.000859,GBIF 2020
+Canada,Ontario,,45.18124,-81.609554,GBIF 2020
+Canada,Ontario,,45.254662,-81.68138,GBIF 2020
+Canada,Ontario,,45.257766,-81.674798,GBIF 2020
+Canada,Ontario,,45.26152,-75.73208,GBIF 2020
+Canada,Ontario,,45.261854,-75.368711,GBIF 2020
+Canada,Ontario,,45.32326,-75.77036,GBIF 2020
+Canada,Ontario,,45.32364,-75.77119,GBIF 2020
+Canada,Ontario,,45.350028,-80.199387,GBIF 2020
+Canada,Ontario,,45.358692,-75.722962,GBIF 2020
+Canada,Ontario,,45.371136,-75.787935,GBIF 2020
+Canada,Ontario,,45.372361,-75.787992,GBIF 2020
+Canada,Ontario,,45.377495,-75.758447,GBIF 2020
+Canada,Ontario,"Canada:Ontario, Ottawa",45.386,-75.718,GBIF 2020
+Canada,Ontario,,45.387888,-75.739354,GBIF 2020
+Canada,Ontario,,45.387895,-75.73929,GBIF 2020
+Canada,Ontario,,45.389499,-75.402459,GBIF 2020
+Canada,Ontario,,45.391504,-75.739281,GBIF 2020
+Canada,Ontario,,45.39402,-75.648109,GBIF 2020
+Canada,Ontario,"Canada:Ontario, Ottawa",45.4,-75.73,GBIF 2020
+Canada,Quebec,,45.429525,-73.410332,GBIF 2020
+Canada,Ontario,,45.445979,-75.651965,GBIF 2020
+Canada,Quebec,,45.466,-73.328,GBIF 2020
+Canada,Quebec,,45.481308,-75.847786,GBIF 2020
+Canada,Quebec,,45.504467,-73.581499,GBIF 2020
+Canada,Quebec,,45.532736,-73.448023,GBIF 2020
+Canada,Quebec,,45.532906,-73.445618,GBIF 2020
+Canada,Quebec,,45.543454,-75.41917,GBIF 2020
+Canada,Quebec,,45.563674,-73.74733,GBIF 2020
+Canada,Quebec,,45.578653,-73.245031,GBIF 2020
+Canada,Quebec,,45.582508,-73.237391,GBIF 2020
+Canada,Quebec,,45.586111,-73.242768,GBIF 2020
+Canada,Quebec,,45.597086,-73.128097,GBIF 2020
+Canada,Quebec,,45.616672,-75.93757,GBIF 2020
+Canada,Quebec,Canada,45.68,-73.41,GBIF 2020
+Canada,New Brunswick,,45.842672,-66.512366,GBIF 2020
+Canada,New Brunswick,,45.8435,-66.51155,GBIF 2020
+Canada,New Brunswick,,45.847145,-66.513962,GBIF 2020
+Canada,Ontario,,46.243005,-79.419314,GBIF 2020
+Canada,New Brunswick,,47.358282,-68.360839,GBIF 2020
+Canada,New Brunswick,,47.404696,-68.362641,GBIF 2020
+USA,Texas,,32.665969,-94.178925,GBIF 2020
+USA,Texas,,32.846244,-97.474677,GBIF 2020
+USA,Texas,,32.849357,-97.490523,GBIF 2020
+USA,Texas,,32.87564,-97.478545,GBIF 2020
+USA,Arkansas,,33.346878,-93.184067,GBIF 2020
+USA,North Carolina,,35.059636,-83.431288,GBIF 2020
+USA,North Carolina,,35.773787,-80.083005,GBIF 2020
+USA,North Carolina,,36.053332,-79.738636,GBIF 2020
+USA,Tennessee,,36.1655,-83.380837,GBIF 2020
+USA,Virginia,,36.982535,-80.391197,GBIF 2020
+USA,Virginia,,37.092422,-80.111102,GBIF 2020
+USA,Virginia,,37.324547,-80.41503,GBIF 2020
+USA,Virginia,,37.35154,-80.806545,GBIF 2020
+USA,Virginia,,37.417617,-80.27385,GBIF 2020
+USA,Virginia,,37.43432,-80.28723,GBIF 2020
+USA,Virginia,,37.469222,-77.670037,GBIF 2020
+USA,Kentucky,,37.554375,-84.238708,GBIF 2020
+USA,Kentucky,,37.557232,-84.246094,GBIF 2020
+USA,Kentucky,,37.592124,-84.287778,GBIF 2020
+USA,Kentucky,,37.706822,-84.272387,GBIF 2020
+USA,Virginia,,37.806143,-79.186173,GBIF 2020
+USA,Kentucky,,37.83391,-83.608566,GBIF 2020
+USA,Virginia,,38.242667,-77.973865,GBIF 2020
+USA,Virginia,,38.618078,-77.360487,GBIF 2020
+USA,Virginia,,38.622326,-77.534595,GBIF 2020
+USA,Virginia,,38.62407,-77.536475,GBIF 2020
+USA,Virginia,,38.68113,-77.253116,GBIF 2020
+USA,Maryland,,38.7364,-76.8261,GBIF 2020
+USA,Virginia,,38.738352,-77.318117,GBIF 2020
+USA,Maryland,,38.768475,-77.02863,GBIF 2020
+USA,Virginia,,38.779933,-77.38608,GBIF 2020
+USA,Virginia,,38.782088,-77.802588,GBIF 2020
+USA,Virginia,,38.832785,-77.994634,GBIF 2020
+USA,Virginia,,38.840391,-77.428877,GBIF 2020
+USA,Virginia,,38.840391,-77.428877,GBIF 2020
+USA,Virginia,,38.858275,-78.168148,GBIF 2020
+USA,District of Columbia,,38.912863,-76.943281,GBIF 2020
+USA,District of Columbia,,38.913156,-76.941824,GBIF 2020
+USA,District of Columbia,,38.915583,-76.952522,GBIF 2020
+USA,Maryland,,38.922585,-76.906771,GBIF 2020
+USA,District of Columbia,,38.931145,-76.993149,GBIF 2020
+USA,Maryland,,38.931762,-76.938899,GBIF 2020
+USA,Virginia,,38.972667,-77.36933,GBIF 2020
+USA,District of Columbia,,38.973842,-77.039255,GBIF 2020
+USA,Maryland,,39.065523,-76.844778,GBIF 2020
+USA,Maryland,,39.089257,-77.020474,GBIF 2020
+USA,Maryland,,39.090953,-77.023261,GBIF 2020
+USA,Maryland,,39.093595,-77.024589,GBIF 2020
+USA,Ohio,,39.099922,-84.661164,GBIF 2020
+USA,Maryland,,39.113041,-77.107175,GBIF 2020
+USA,Ohio,,39.141227,-84.517185,GBIF 2020
+USA,Kansas,Wyandotte Co. Lake Park,39.1728499990759,-94.78297,GBIF 2020
+USA,Maryland,,39.17722,-76.856372,GBIF 2020
+USA,Maryland,,39.178863,-76.884524,GBIF 2020
+USA,Maryland,,39.197383,-76.7135,GBIF 2020
+USA,Maryland,,39.289701,-76.799736,GBIF 2020
+USA,Maryland,,39.306367,-76.69532,GBIF 2020
+USA,Maryland,,39.30722,-76.697777,GBIF 2020
+USA,Ohio,,39.360881,-84.175564,GBIF 2020
+USA,Maryland,,39.435627,-77.391579,GBIF 2020
+USA,Maryland,,39.435846,-77.391374,GBIF 2020
+USA,Indiana,,39.504495,-85.669062,GBIF 2020
+USA,Indiana,,39.621471,-86.168106,GBIF 2020
+USA,Maryland,Little Orleans Campground,39.631377,-78.392408,GBIF 2020
+USA,Maryland,Little Orleans Campground,39.631377,-78.392408,GBIF 2020
+USA,Maryland,,39.632839,-79.122963,GBIF 2020
+USA,Ohio,,39.674245,-82.934967,GBIF 2020
+USA,Colorado,,39.714073,-104.799855,GBIF 2020
+USA,Missouri,,39.780602,-94.803436,GBIF 2020
+USA,Indiana,,39.815953,-84.915955,GBIF 2020
+USA,Pennsylvania,,39.819444,-79.4475,GBIF 2020
+USA,Ohio,,39.830299,-81.730827,GBIF 2020
+USA,Indiana,,39.907892,-86.209817,GBIF 2020
+USA,Indiana,,39.9082,-86.209528,GBIF 2020
+USA,Pennsylvania,,40.048814,-75.199447,GBIF 2020
+USA,Pennsylvania,,40.053942,-78.316515,GBIF 2020
+USA,Illinois,,40.079927,-88.204416,GBIF 2020
+USA,Illinois,,40.091995,-88.292045,GBIF 2020
+USA,Ohio,,40.096797,-83.109742,GBIF 2020
+USA,Ohio,,40.100942,-82.899088,GBIF 2020
+USA,Illinois,,40.143589,-87.744958,GBIF 2020
+USA,Illinois,,40.214447,-87.745413,GBIF 2020
+USA,Illinois,,40.24122,-87.781753,GBIF 2020
+USA,Pennsylvania,,40.24172,-79.849757,GBIF 2020
+USA,Pennsylvania,,40.301612,-75.035601,GBIF 2020
+USA,Pennsylvania,,40.30162,-75.035569,GBIF 2020
+USA,Pennsylvania,,40.332012,-80.107636,GBIF 2020
+USA,New Jersey,,40.332915,-74.750771,GBIF 2020
+USA,New Jersey,,40.333016,-74.750744,GBIF 2020
+USA,Pennsylvania,,40.335333,-80.116068,GBIF 2020
+USA,Pennsylvania,,40.399201,-79.328057,GBIF 2020
+USA,Indiana,,40.418045,-86.839188,GBIF 2020
+USA,Pennsylvania,,40.426,-75.542,GBIF 2020
+USA,Pennsylvania,,40.442097,-79.900277,GBIF 2020
+USA,New York,,40.507304,-74.221481,GBIF 2020
+USA,Pennsylvania,,40.50932,-80.078997,GBIF 2020
+USA,Pennsylvania,,40.543065,-79.908306,GBIF 2020
+USA,New Jersey,,40.558091,-74.526014,GBIF 2020
+USA,Ohio,,40.614229,-81.422337,GBIF 2020
+USA,New York,,40.615208,-73.998552,GBIF 2020
+USA,Ohio,,40.667562,-81.338929,GBIF 2020
+USA,Ohio,,40.700593,-82.552171,GBIF 2020
+USA,Pennsylvania,"Potter, Rt322,Rd 144",40.794737,-77.625817,GBIF 2020
+USA,Ohio,,40.933884,-81.102458,GBIF 2020
+USA,Ohio,,40.944603,-81.700374,GBIF 2020
+USA,Ohio,,40.958412,-83.657692,GBIF 2020
+USA,Ohio,,40.963669,-81.331219,GBIF 2020
+USA,Pennsylvania,,40.969722,-76.580017,GBIF 2020
+USA,Ohio,,41.06488,-81.307017,GBIF 2020
+USA,Ohio,,41.101445,-81.441779,GBIF 2020
+USA,Pennsylvania,,41.108108,-75.454899,GBIF 2020
+USA,Ohio,,41.111851,-81.539931,GBIF 2020
+USA,New Jersey,,41.140781,-74.830375,GBIF 2020
+USA,Ohio,,41.15264,-81.136956,GBIF 2020
+USA,New York,,41.170137,-73.740442,GBIF 2020
+USA,New York,,41.179405,-73.669783,GBIF 2020
+USA,New York,,41.183067,-73.677537,GBIF 2020
+USA,New York,,41.199099,-73.558586,GBIF 2020
+USA,New York,,41.199452,-73.552216,GBIF 2020
+USA,New York,,41.201208,-73.557928,GBIF 2020
+USA,New York,,41.203829,-73.553774,GBIF 2020
+USA,New York,,41.204756,-73.552377,GBIF 2020
+USA,Ohio,,41.206112,-81.720001,GBIF 2020
+USA,Illinois,,41.212399,-88.026337,GBIF 2020
+USA,Ohio,,41.220027,-81.577136,GBIF 2020
+USA,New York,,41.22929,-73.577752,GBIF 2020
+USA,New York,,41.244063,-73.595703,GBIF 2020
+USA,New York,,41.244562,-73.595017,GBIF 2020
+USA,Ohio,,41.245676,-81.719141,GBIF 2020
+USA,New York,,41.247618,-73.588186,GBIF 2020
+USA,Ohio,,41.258343,-81.541756,GBIF 2020
+USA,Ohio,,41.259724,-81.563332,GBIF 2020
+USA,Ohio,,41.280825,-81.567812,GBIF 2020
+USA,New York,,41.288678,-74.032701,GBIF 2020
+USA,New York,,41.2941,-73.996722,GBIF 2020
+USA,New York,,41.294132,-73.996296,GBIF 2020
+USA,New York,,41.294201,-73.996104,GBIF 2020
+USA,New York,,41.294244,-73.996055,GBIF 2020
+USA,New York,,41.294266,-73.996213,GBIF 2020
+USA,New York,,41.294286,-73.996318,GBIF 2020
+USA,Ohio,,41.303269,-81.528309,GBIF 2020
+USA,New York,,41.312275,-73.57529,GBIF 2020
+USA,Illinois,,41.322128,-88.998253,GBIF 2020
+USA,Pennsylvania,,41.332247,-75.90008,GBIF 2020
+USA,Ohio,,41.361408,-81.848274,GBIF 2020
+USA,Ohio,,41.365641,-81.461134,GBIF 2020
+USA,Ohio,,41.408534,-81.889299,GBIF 2020
+USA,Ohio,,41.410124,-81.887839,GBIF 2020
+USA,Connecticut,,41.411533,-73.123061,GBIF 2020
+USA,Ohio,,41.413399,-81.75441,GBIF 2020
+USA,Connecticut,,41.421524,-72.899504,GBIF 2020
+USA,New York,,41.428373,-73.966671,GBIF 2020
+USA,Ohio,,41.430565,-81.850548,GBIF 2020
+USA,Ohio,,41.453609,-81.525833,GBIF 2020
+USA,Ohio,"Swanton Twp., Lucas Co., OH",41.5647,-83.8481,GBIF 2020
+USA,Illinois,,41.566624,-87.611547,GBIF 2020
+USA,Illinois,,41.566629,-87.611567,GBIF 2020
+USA,Ohio,,41.575554,-81.326385,GBIF 2020
+USA,Illinois,,41.643706,-88.540884,GBIF 2020
+USA,Illinois,,41.702488,-88.005639,GBIF 2020
+USA,Connecticut,,41.738788,-73.205703,GBIF 2020
+USA,Ohio,,41.755588,-80.800055,GBIF 2020
+USA,Ohio,,41.761683,-81.286147,GBIF 2020
+USA,Illinois,,41.783252,-87.578253,GBIF 2020
+USA,Pennsylvania,,41.78363,-76.790475,GBIF 2020
+USA,Illinois,,41.784228,-88.438786,GBIF 2020
+USA,Illinois,,41.82697,-87.934722,GBIF 2020
+USA,New York,,41.926437,-74.20163,GBIF 2020
+USA,New York,,41.928988,-74.202438,GBIF 2020
+USA,New York,,41.929984,-74.200411,GBIF 2020
+USA,Pennsylvania,,41.961714,-75.956418,GBIF 2020
+USA,Illinois,,41.977159,-87.738855,GBIF 2020
+USA,Illinois,,41.978448,-87.739973,GBIF 2020
+USA,Illinois,,41.979738,-87.7415,GBIF 2020
+USA,Illinois,,41.980885,-87.742824,GBIF 2020
+USA,Illinois,,41.982555,-87.746602,GBIF 2020
+USA,Illinois,,41.983671,-87.755377,GBIF 2020
+USA,Illinois,,41.999585,-87.776004,GBIF 2020
+USA,Illinois,,42.0016,-87.778357,GBIF 2020
+USA,Pennsylvania,,42.005877,-80.356175,GBIF 2020
+USA,Illinois,,42.010189,-87.791017,GBIF 2020
+USA,Connecticut,,42.027639,-73.142982,GBIF 2020
+USA,New York,,42.036758,-74.127342,GBIF 2020
+USA,Illinois,,42.039036,-87.792879,GBIF 2020
+USA,Michigan,M 12 at M 50,42.05,-84.2,GBIF 2020
+USA,Illinois,,42.06438,-88.268919,GBIF 2020
+USA,Illinois,,42.06603,-87.77434,GBIF 2020
+USA,New York,,42.086728,-73.975813,GBIF 2020
+USA,New York,,42.14144,-75.897128,GBIF 2020
+USA,New York,,42.242713,-77.198708,GBIF 2020
+USA,Michigan,"T2s-R8E Sec. 25 Canton Township, I-275 and Michigan Avenue",42.27,-83.4,GBIF 2020
+USA,New York,,42.292155,-73.5745,GBIF 2020
+USA,Michigan,,42.322244,-84.089596,GBIF 2020
+USA,Michigan,Livonia,42.36833,-83.35278,GBIF 2020
+USA,Illinois,,42.391896,-88.128033,GBIF 2020
+USA,Illinois,,42.401895,-87.830093,GBIF 2020
+USA,New York,,42.43945,-76.490172,GBIF 2020
+USA,New York,,42.443508,-76.758202,GBIF 2020
+USA,New York,,42.478274,-76.450547,GBIF 2020
+USA,New York,,42.478274,-76.450547,GBIF 2020
+USA,New York,,42.478274,-76.450547,GBIF 2020
+USA,New York,,42.480326,-76.450072,GBIF 2020
+USA,New York,,42.480474,-76.449703,GBIF 2020
+USA,New York,,42.483089,-74.009409,GBIF 2020
+USA,Michigan,Brighton,42.533651,-83.786057,GBIF 2020
+USA,New York,,42.557709,-79.13633,GBIF 2020
+USA,New York,,42.583076,-79.522341,GBIF 2020
+USA,Michigan,Clinton,42.585,-82.916,GBIF 2020
+USA,New York,,42.597711,-73.710026,GBIF 2020
+USA,Michigan,"Auburn Hills, 42В°39.547'N 83В°14.379'W, Oakland Co., MI",42.6592,-83.2397,GBIF 2020
+USA,New York,,42.663646,-73.80857,GBIF 2020
+USA,Michigan,Rochester Hills,42.66695,-83.150962,GBIF 2020
+USA,Wisconsin,,42.683431,-87.797875,GBIF 2020
+USA,Wisconsin,,42.683444,-87.797936,GBIF 2020
+USA,Wisconsin,,42.683514,-87.797975,GBIF 2020
+USA,Wisconsin,,42.683706,-87.798286,GBIF 2020
+USA,Wisconsin,,42.683792,-87.798256,GBIF 2020
+USA,Wisconsin,,42.719764,-88.041852,GBIF 2020
+USA,Michigan,Okemos,42.72,-84.4,GBIF 2020
+USA,Wisconsin,,42.73472,-90.488939,GBIF 2020
+USA,Wisconsin,,42.73475,-90.488841,GBIF 2020
+USA,Wisconsin,,42.756736,-87.782417,GBIF 2020
+USA,Wisconsin,,42.765473,-90.524089,GBIF 2020
+USA,New York,,42.890442,-78.717108,GBIF 2020
+USA,Michigan,,42.953735,-84.146733,GBIF 2020
+USA,Wisconsin,,42.960555,-88.099555,GBIF 2020
+USA,New York,,42.9688,-78.945432,GBIF 2020
+USA,New York,,42.992895,-73.868323,GBIF 2020
+USA,New York,,42.994145,-78.81778,GBIF 2020
+USA,New York,,43.004198,-77.883525,GBIF 2020
+USA,Michigan,,43.006167,-85.002167,GBIF 2020
+USA,New York,,43.015389,-78.484558,GBIF 2020
+USA,Wisconsin,,43.038767,-87.902335,GBIF 2020
+USA,Michigan,,43.076667,-84.7805,GBIF 2020
+USA,New Hampshire,,43.164511,-71.509566,GBIF 2020
+USA,New York,,43.193538,-77.409988,GBIF 2020
+USA,New York,,43.303028,-77.714034,GBIF 2020
+USA,Wisconsin,,43.39472,-87.863551,GBIF 2020
+USA,Ohio,"Wellington Co., Clairfields Dr. W.",43.499,-80.2,GBIF 2020
+USA,Wisconsin,,43.67563,-87.709259,GBIF 2020
+USA,Wisconsin,,43.67709,-87.708413,GBIF 2020
+USA,Vermont,,44.257688,-72.582954,GBIF 2020
+USA,Vermont,,44.357514,-73.005303,GBIF 2020
+USA,Wisconsin,,44.517803,-89.553059,GBIF 2020
+USA,Minnesota,,44.886563,-93.179289,GBIF 2020
+USA,Minnesota,,44.890676,-93.180808,GBIF 2020
+USA,Minnesota,,44.939657,-93.212728,GBIF 2020
+USA,Minnesota,,44.955451,-93.157029,GBIF 2020
+USA,Minnesota,,44.958255,-93.154602,GBIF 2020
+USA,Minnesota,,45.031186,-93.109344,GBIF 2020
+USA,Minnesota,,45.179624,-93.085355,GBIF 2020
+Canada,Manitoba,Winnipeg,49.913721,-97.197488,Emerald ash borer info 2020
+Canada,Ontario,,48.34828,-89.27361,Emerald ash borer info 2020
+USA,Wisconsin,,46.711929,-92.101347,Emerald ash borer info 2020
+USA,Michigan,,47.383908,-88.105716,Emerald ash borer info 2020
+USA,Michigan,,46.778875,-87.597992,Emerald ash borer info 2020
+USA,Michigan,,46.395049,-86.709477,Emerald ash borer info 2020
+USA,Michigan,,46.360021,-84.526266,Emerald ash borer info 2020
+Canada,Ontario,,45.04818,-79.220557,Emerald ash borer info 2020
+Canada,Quebec,,45.460647,-75.741299,Emerald ash borer info 2020
+Canada,Quebec,,46.777067,-71.240008,Emerald ash borer info 2020
+Canada,Quebec,,46.444999,-72.382586,Emerald ash borer info 2020
+Canada,Quebec,,45.4674,-73.657,Emerald ash borer info 2020
+Canada,New Brunswick,,45.866629,-65.395282,Emerald ash borer info 2020
+USA,South Dakota,,43.61458,-96.787122,Emerald ash borer info 2020
+USA,Nebraska,,41.926776,-96.421302,Emerald ash borer info 2020
+USA,Kansas,,39.106721,-95.32384,Emerald ash borer info 2020
+USA,Oklahoma,,34.053242,-94.696719,Emerald ash borer info 2020
+USA,Louisiana,,32.81031,-92.606316,Emerald ash borer info 2020
+USA,Tennessee,,35.724934,-86.439627,Emerald ash borer info 2020
+USA,Alabama,,33.966601,-85.786376,Emerald ash borer info 2020
+USA,Georgia,,33.706149,-84.453744,Emerald ash borer info 2020
+USA,South Carolina,,34.89334,-82.467861,Emerald ash borer info 2020
+USA,New York,Syracuse,43.038155,-76.130619,Emerald ash borer info 2020
+Russia,Khabarovskyi kr.,Troitskoe,49.42,136.56,Sobek-Swant et al. (2012)
+Russia,Primorskiy kr.,Sikhote-Alin Nature Reserve,45.19,136.15,Alexeev (1979)
+China,Heilongjang,Yichun,47.73,128.84,Wei et al. (2004)
+Russia,Primorskiy kr.,Novochugujevka,44.22,133.84,Jendek & Grebennikov (2011)
+Russia,Khabarovskyi kr.,"Khabarovsk, 25 Kilometr",48.25,135.05,Yurchenko et al. (2007)
+Russia,Khabarovskyi kr.,"Khabarovsk, Gagarin Park",48.28,135.06,Duan et al. (2012)
+Russia,Khabarovskyi kr.,"Khabarovsk, Arboretum",48.28,135.06,Examined specimens from collection of Collection of Federal Scientific Centre of Biodiversity of Terrestrial Biota of East Asia and Duan et al. (2012)
+Russia,Khabarovskyi kr.,Khekhtsir,48.13,135.07,Duan et al. (2012)
+Russia,Khabarovskyi kr.,"Khabarovsk, Southern microdistrict",48.39,135.11,Yurchenko (2009)
+Russia,Primorskiy kr.,Benevskoe,43.17,133.76,Jendek (1994)
+Russia,Primorskiy kr.,"Lazovski Nature Reserve, Korpad",43.1,133.91,"Examined specimens from collection of ZIN, Volkovitsh (2009)"
+Russia,Primorskiy kr.,"S. Sikhote-Alin, Sokolchi",43.36,134.11,Examined specimens from collection of M.Yu. Kalasyan
+China,Heilongjang,Mudanjian,44.55,129.63,Wei et al. (2004)
+China,Heilongjang,Shangzhi,45.0,128.5,"Liu et al. (2003), Wang et al. (2016)"
+China,Jilin,Dunhua,43.53,128.28,Wei et al. (2004)
+China,Heilongjang,Hejiang,46.79,130.38,Wei et al. (2004)
+Russia,Primorskiy kr.,Dalnerechensk,45.93,133.74,Yurchenko et al. (2007)
+Russia,Primorskiy kr.,Pogranichnyj,44.41,131.38,Yurchenko et al. (2013a)
+Russia,Primorskiy kr.,"Vladivostok, Prospect 100-letiya",43.16,131.91,Belokobylskij et al. (2012)
+Russia,Primorskiy kr.,Vladivostok,43.17,131.98,Yurchenko et al. (2013a)
+Russia,Primorskiy kr.,"Vladivostok, Pervaya Street",43.14,132.0,Duan et al. (2012)
+Russia,Primorskiy kr.,Okeanskaya,43.23,132.01,Yurchenko et al. (2007)
+Russia,Primorskiy kr.,"Vladivostok, Ugol'naya station",43.31,132.06,Belokobylskij et al. (2012)
+Russia,Primorskiy kr.,Pyatyj Klyuch near Vladivostok,43.28,132.08,Yurchenko et al. (2007)
+Russia,Primorskiy kr.,Trudovoe (Ugolnaya Station),43.3,132.1,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,"Vladivostok, Postysheva Street",43.11,132.15,Duan et al. (2012)
+Russia,Primorskiy kr.,Artem,43.36,132.16,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,"Kamenushka vill., Ussuryiskyi Dist.",43.62,132.23,Examined specimens from collection of S.N. Ivanov
+Russia,Primorskiy kr.,Zavodskoj,43.46,132.28,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,"Shkotovo district, Shtykovo, Koryavaya Pad",43.39,132.37,Yurchenko et al. (2007)
+Russia,Primorskiy kr.,"Sinij Ridge, 4 km East of Evseevka",44.41,132.89,Examined specimens from collection of ZIN 
+Russia,Primorskiy kr.,Vozdvizhenka,43.9,131.93,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,Ussurijsk,43.81,131.97,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,Gornotaezhnoe,43.69,132.13,Yurchrnko et al. (2013b)
+Russia,Primorskiy kr.,"Chernye gory, rifgt tributary of Poima River",42.89,131.16,Examined specimens from collection of ZIN and Jendek & Grebennikov (2011)
+Russia,Primorskiy kr.,Barabash,43.13,131.32,"Duan et al. (2012), Yurchenko et al. (2007, 2013a)"
+Russia,Primorskiy kr.,Peschaniy “Village”,43.17,131.36,Duan et al. (2012)
+Russia,Primorskiy kr.,"Vladivostok, Borisenko Street ",43.06,131.58,Duan et al. (2012)
+Russia,Primorskiy kr.,Zanadvorovka,43.3,131.6,Yurchenko et al. (2007)
+Japan,Hokkaido,"Kotambetsu, Tomamae, Kokkaidoh",44.27,141.72,Chamorro et al. (2015)
+China,Heilongjang,Laoshan,45.27,127.59,Keever et al. (2013)
+Japan,Hokkaido,"Tokachi, Memuro, Shin-Arashiyama",42.83,142.96,GBIF (2017)
+China,Jilin,Songhuahu Nature Reserve,43.73,126.66,Liu et al. (2003)
+China,Jilin,Jiang Nan Forest,43.8,126.77,Bray et al. (2007)
+China,Jilin,Jiaohe Experimental Forest,43.69,127.32,Liu et al. (2003)
+Russia,Primorskiy kr.,"Khasan District, 10-20 km from the border of China",42.43,130.69,Yurchenko et al. (2007)
+Russia,Primorskiy kr.,Ryazanovka District,42.51,131.12,"Duan et al. (2012), Yurchenko et al. (2007)"
+Japan,Hokkaido,Shikotsu-ko,42.79,141.38,Chamorro et al. (2015)
+China,Jilin,Jilin City,43.43,126.41,Bray et al. (2011)
+Japan,Hokkaido,Sapporo. Type locality of Agrilus marcopoli ulmi,43.06,141.35,"Kurosawa (1956), GBIF (2017)"
+China,Jilin,"Changchun, Dongfenqu/ Jingyuetan",42.66,125.49,Liu et al. (2007)
+China,Hebei,Chahar Yangkiaping ,40.0,115.0,Jendek (1994)
+China,Heilongjang,Harbin,45.45,126.38,"Liu et al. (2003), Bray et al. (2011)"
+China,Jilin,Changchun City,43.46,125.27,"Bray et al. (2011), Wang et al. (2016)"
+China,Jilin,"Changchun, Laoniujuan/ Jingyuetan",43.77,125.48,Liu et al. (2007)
+China,Jilin,Jiutai,44.09,125.49,Bray et al. (2011)
+China,Jilin,"Changchun, Jingyuetan Forest Park",43.77,125.5,"Liu et al. (2003), Bray et al. (2007)"
+China,Liaoning ,Fengcheng,40.88,124.283324,Wang et al. (2016)
+China,Liaoning,Benxi,41.13,124.29,Liu et al. (2007)
+China,Liaoning,"Benxi, Tianshifu Township, Xibeitian",41.26,124.36,Liu et al. (2003)
+China,Beijing,Beianhe,40.06,116.11,Zhang et al. (2005)
+China,Liaoning ,Benxi Changzui/Jianchang,40.78,119.83,Liu et al. (2007)
+China,Liaoning,Dandong,40.0,124.34,Wei et al. (2004)
+Japan,Honshu,"Todai, Nagano",36.64,138.13,Jendek (1994)
+China,Liaoning,Liaoning,41.46,123.25,Bray et al. (2011)
+China,Liaoning,Shenyang (Yushutun),41.46,123.26,"Hou Tao-qian (1986), Wei et al. (2004), Bray et al. (2011), "
+China,Liaoning,Shenyang,41.81,123.43,"Wei et al. (2004), Wang et al (2016)"
+China,Liaoning,Shenyang,41.82,123.57,Wang et al. (2016)
+Japan,Honshu,"Usui-pass, Gumma pref., Honshu",36.34,138.65,Kurosawa (1956)
+Republic of Korea,,Gangwon-do Inje ,38.04,128.1,"Williams et al. (2006), Bray et al. (2011)"
+China,Beijing,Haidian,40.0,116.18,Wang et al. (2016)
+China,Hebei,Qinhuandao,39.94,119.6,Wei et al. (2004)
+China,Liaoning,Dalian,38.95,121.58,Wei et al. (2004)
+Japan,Honshu,"Honshu, Miyagi Prefecture Shiroishi City, Misumi",38.0,140.57,Schaefer (2004)
+Republic of Korea,,Gangwon-do Samcheok,37.27,129.1,"Williams et al. (2006), Bray et al. (2011)"
+Japan,Honshu,Koganezawa (Yamanashi),35.59,138.88,Chamorro et al. (2015)
+Japan,Honshu,"Koganezawa, Ohtzuki City, Yamanashi Pref. ",35.59,138.88,Jendek (1994)
+Japan,Honshu,"Ogawadani, Okutama",35.83,139.05,Chamorro et al. (2015)
+Japan,Honshu,"Nippara, Okutama, Tokio",35.83,139.05,"Chamorro et al. (2015), GBIF (2017)"
+Japan,Honshu,"Tokyo, Nippara",35.83,139.05,Chamorro et al. (2015)
+Japan,Honshu,"Okutama, Nippara, Tokyo",35.83,139.05,GBIF (2017)
+Japan,Honshu,Ogawadani Vall. Okutama Tokyo,35.83,139.05,Jendek (1994)
+Republic of Korea,,Seoul,37.57,126.99,Kurosawa (1956)
+Republic of Korea,,"Gyeonggi-do, Suwon",37.16,127.1,Bray et al. (2011)
+Republic of Korea,,Yangsuri,37.56,127.34,Keever et al. (2013)
+Republic of Korea,,"Pocheon-gun, Gyeonggi-do",37.6,127.34,GBIF (2017)
+Republic of Korea,,Gyeongsangbuk-do Sangju,36.44,128.17,Bray et al. (2011)
+Republic of Korea,,Mt. Muju,35.94,127.7,Bray et al. (2007)
+Republic of Korea,,Chungchongnam-do Daejeon,36.1,127.14,"Williams et al. (2006), Bray et al. (2011), Belokobylskij et al. (2012)"
+China,Hebei,Beijing,39.36,118.1,Bray et al. (2011)
+China,Hebei,Tangshan (ZhenZhuang-Zi Village),39.29,118.13,Bray et al. (2011)
+China,Hebei,Tangshan,39.63,118.18,Liu et al. (2003)
+Republic of Korea,,Jirisan Nat. Park,35.29,127.63,Bray et al. (2007)
+China,Shandong,Dongying,37.44,118.68,Wei et al. (2004)
+China,Tianjin,"Tianjin City, Hangu ",39.14,117.47,Bray et al. (2011)
+China,Shandong,Binzhou,37.38,117.97,Wei et al. (2004)
+Japan,Honshu,Hiroshima Prefecture,34.58,132.86,"Akiyama & Akiyama, 1996"
+China,Beijing,Chaoyang,39.54,116.23,Bray et al. (2011)
+Japan,Honshu,"Yashagaike, Fukui",35.67,136.29,GBIF (2017)
+China,Tianjin,Tianjin City Dagang ,38.56,117.31,"Wei et al. (2004), Bray et al. (2007), Wang et al. (2016)"
+China,Tianjin,"Jinnan, Xianshuigu Township, Zhangzhuang",38.98,117.4,Liu et al. (2003)
+China,Tianjin,"Guangang, City forest",38.94,117.54,"Liu et al. (2003), Wei et al., (2004)"
+Japan,Honshu,"Sugasaka Pass, Maizuru, Kioto Prefecture",35.43,135.41,Chamorro et al. (2015)
+Japan,Honshu,"Japan, Kyoto Prefecture",35.27,135.49,Schaefer (2004)
+Japan,Kyushu,"Naidaijin, Yabe T., Kumamoto Prefecture",32.64,130.97,Chamorro et al. (2015)
+Japan,Shikoku,"Shikoku, Tokushima Prefecture",33.93,134.3,Schaefer (2004); Kurosawa (1956)
+Japan,Kyushu,"Mt. Hicosan, Fukuoka Prefecture",33.48,130.93,Kurosawa (1956)
+Russia,Belgorod,Roven’ki,49.891199,38.920042,Baranchikov and Seraya 2019
+Russia,Belgorod,Eriomovka,50.089229,39.163869,Baranchikov and Seraya 2019
+Russia,Belgorod,Nagorie,50.03541,39.077032,Baranchikov and Seraya 2019
+Russia,Belgorod,Aidar,50.049656,38.903589,Baranchikov and Seraya 2019
+Russia,Belgorod,Glukhovka,50.728453,38.696197,Orlova-Bienkowskaja et al. 2020
+Russia,Bryansk,Bryansk City. Majskij Park,53.311143,34.308293,"Rosselkhoznadzor, 2019"
+Russia,Bryansk,Брянск (1.VII.2019). Повреждённые златкой ясени пенсильванские обнаружены в Советском районе (по ул. Красноармейская ,53.240209,34.345979,Observations by I.A. Zabaluev
+Russia,Bryansk,Брянск (1.VII.2019) в районе школы №59),53.224564,34.320293,Observations by I.A. Zabaluev
+Russia,Bryansk,Брянск (1.VII.2019) в Бежицком районе по ул. Ульянова,53.313018,34.296995,Observations by I.A. Zabaluev
+Russia,Bryansk,Брянск (1.VII.2019) в Бежицком районе Харьковская,53.303516,34.306032,Observations by I.A. Zabaluev
+Russia,Bryansk,"Брянск (1.VII.2019). в Бежицком районе, в парке около памятника Камозину. ",53.308898,34.3098,Observations by I.A. Zabaluev
+Russia,Kaluga,"Калужская область, Обнинск",55.092515,36.609535,"Regnum, 2012"
+Russia,Kaluga,"Калужская область, Калуга",54.517096,36.255569,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Kaluga,Maloyaroslavets,55.009746,36.465225,Observations by A.A. Bienkowski
+Russia,Kursk,"Курск, окрестности железнодорожного вокзала. во множестве наблюдались характерные D-образные выходы златок. Дальнейший осмотр дал просто неопровержимое свидетельство того, что все это - следы развития именно A. planipennis - в одном из выходных отверстий обнаружилась застрявшая мертвая златка, находящаяся при этом в настолько хорошей сохранности (отсутствовал только фрагмент одного из усиков), что никаких сомнений не оставалось - это именно A. planipennis. ",51.749856,36.228008,Observations by Ya.N. Kovalenko
+Russia,Kursk,"Курск, парках Боева Дача ",51.743153,36.20961,Observations by Ya.N. Kovalenko
+Russia,Kursk,"Курск, Парк имени 50-летия ВЛКСМ",51.746404,36.219909,Observations by Ya.N. Kovalenko
+Russia,Lipetsk,"Липецкая обл., Елец",52.62419,38.503653,"Baranchikov, 2018"
+Russia,Lipetsk,"Липецкая область, Краснинский район, п. Лески 44 км СВ г. Елец, посадки вдольжелезной дороги, на ясене sp. 1 экз",52.879137,38.996057,Observations by S.G. Mazurov
+Ukraine,Luhansk,"Украина: п. Марковка, Луганской обл., в ""Лесу Старокожем""",49.612958,39.56344,Observations by A.N. Drogvalenko
+Russia,Moscow,"Москва, В середине июня 2003 года в Москве недалеко от станции метро Алексеевская ",55.807598,37.638583,"Shankhiza, 2007"
+Russia,Moscow,"Москва, третью точку указал Н. Б. Никитский, поймав ее в Ясенево 2005",55.606017,37.53328,"Shankhiza, 2007"
+Russia,Moscow,"Москва, В июне 2005 года в районе метро Щукинская ",55.808663,37.463617,"Shankhiza, 2007"
+Russia,Moscow,"Москва, Шипиловский проезд",55.608005,37.699271,"Ismailov, 2008"
+Russia,Moscow,"Москва, в зоне отдыха «Мещерское»",55.673816,37.408452,"Ismailov, 2008"
+Russia,Moscow,"Москва, Волоколамское шоссе Волоколамского шоссе, на пересеченииВолоколамского шоссе с МКАД(недалеко от платформы Трикотажная)",55.832436,37.398606,"Ismailov, 2008"
+Russia,Moscow,"Москва,15 июня в сквере на Кавказском бульваре (Царицыно) 2006",55.627878,37.652616,"Shankhiza, 2007"
+Russia,Moscow,"Москва, метро Волжская 2006",55.690262,37.75416,"Shankhiza, 2007"
+Russia,Moscow,"Москва, в сквере около метро Юго-Западная",55.663021,37.482663,"Ismailov, 2008"
+Russia,Moscow,"Москва, парк Победы",55.730674,37.504269,"Ismailov, 2008"
+Russia,Moscow,"Москва, Барышиха (район Митино)",55.844053,37.350501,"Ismailov, 2008"
+Russia,Moscow,"Московская область, Манихино, 15.6.2008, на ясене, Шанхиза",55.876418,36.968071,"Nikitskij, 2009"
+Russia,Moscow,"Московская область, Серпухов",54.916685,37.408447,"Baranchikov et al., 2009"
+Russia,Moscow,"Московская область, Можайск",55.508708,36.0149,"Baranchikov et al., 2009"
+Russia,Moscow,"Московская область, Мытищи",55.912081,37.737007,"Baranchikov et al., 2009"
+Russia,Moscow,"Московская область, Пушкино",56.010091,37.835541,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,Serpukhov,54.923392,37.41446,"Baranchikov et al., 2009"
+Russia,Moscow,"Московская область, Королев",55.916822,37.854285,"Mozolevskaya, 2013"
+Russia,Moscow,"Москва, Зеленоград, Болдов ручей 7.2011",55.996867,37.181584,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Раменский район, Быково. A big series of Tetrops starkii (9 males and 22 females) wascollected by my wife Galina Danilevskaya and me in June 2012 onyoung rootstocks of dead Fraxinus excelsior killed by Agrilusplanipennis Fairm. in Ramenskoe District of Moscow Region(Bykovo, 130m, 55°38’5""N, 38°4’E). It is the first record of thespecies for Moscow Region and for Central Russia.",55.634761,38.06763,"Danilevsky, 2012"
+Russia,Moscow,"Московская область, 116 Чебуново",55.467786,35.903792,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,"Московская обл., Можайский р-н, 121 км шоссе",55.468759,35.815723,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,"Московская обл., Можайский р-н, Дровнино 147 км шоссе",55.492718,35.376541,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,"Московская обл, Можайский р-н, на 154 км шоссе (граница Смоленской области)",55.4954,35.297197,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,"Московская область, Сергиев Посад ",56.312322,38.133853,"Baranchikov, Kurteev, 2012"
+Russia,Moscow,"Московская область, Москва, Поклонная гора",55.72689,37.500132,"Volkovitsh, Mozolevskaya, 2014 "
+Russia,Moscow,"Московская область, Москва, Спорткомплекс МГУ",55.699711,37.539014,"Volkovitsh, Mozolevskaya, 2014 "
+Russia,Moscow,"Московская область, Одинцово",55.676319,37.263561,"Volkovitsh, Mozolevskaya, 2014 "
+Russia,Moscow,"Московская область, Ивантеевка",55.970374,37.917836,"Mozolevskaya, 2013"
+Russia,Moscow,"Московская область, Коломна",55.101102,38.740029,"Slobodenyuk, 2012"
+Russia,Moscow,"Московская область, Серебряно-Прудский район, Узуново",54.545319,38.618336,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Клин",56.333289,36.727982,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Ногинский р-н, Старая Купавна",55.812388,38.175615,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Щелковский р-н, Монино",55.843733,38.197245,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Зеленоград",55.987436,37.202797,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Ломоносовский проспект, возле Биологического факультета МГУ, 2013",55.703026,37.521257,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Ленинский проспект, 33, 2013",55.712084,37.587879,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, ГБС",55.836526,37.58709,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, улица Академика Королёва возле телецентра Останкино 1 имаго, аллея поврежденных пенсильванских ясеней, 14.06.2014 ",55.823025,37.6086,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Много усохших пенсильванских ясеней возле на ВВЦ возле Хованского входа 14.06.2014 ",55.830363,37.621901,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Много усохших ясеней на Малой Ботанической улице",55.832128,37.588685,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, ВИЛАР – точка возле ботсада у железной дороги На Fraxinus excelsior найдено много личинок ЯИУЗ среднего и крупного размера, а также коконы Spathius. Найдено 16 сухих и суховершинных Fraxinus excelsior со следами деятельности златки.  На ясенях пенсильванских найдено много личинок ЯИУЗ среднего и крупного размера, а также живые личинки и коконы спатиуса. Есть также имаго и личинки A. convexicollis., имаго спатиуса, разные наездники и Hylesinus. Из хода A. convexicollis собран кокон с блестящей хальцидой.  Не удалось найти  только Tetrops starkii. Личинки ЯИУЗ развиваются под живой, влажной корой. А A. convexicollis – под совершенно сухой корой, причем на усохших верхушках.  ",55.561464,37.594726,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, окрестности метро Шабаловская",55.71864,37.607841,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Солнечногорск ",56.185244,36.977435,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Планерная 55.92 N, 37.38 E 28.4.2014, 10.3.2014, 9.1.2014",55.923479,37.382215,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Zelenograd, 16th district, 55.97 N, 37.16 E, 11.3.2014, 30.10.2013 ",55.973674,37.155509,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Зпеленоград, Ясени у МИЭТа 4.5.2014",55.98278,37.204838,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Зеленоград, улица Панфилова 4.6.2014",55.983281,37.170774,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Москва, Зеленоград, Болдов ручей 2013, 2014 имаго, личинки",55.996867,37.181584,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Солнечногорский р-н, Поваровка 2.5.2014",56.064253,37.077536,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,Kolomna,55.0831985473632,38.7904014587402,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Дединово Свежие личинки и жуки. Август 2017",55.055775,39.120532,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская область, Щурово (возле Коломны) Свежие личинки и жуки, Spathius, Август 2017",55.048771,38.782339,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,Stupino Август 2017,54.885286,38.100062,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Moscow,"Московская обл., Шаховская Активный очаг",56.02841,35.505581,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Orel,"Орловская область, Орел",52.972214,36.068115,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Orel,Livny,52.426357,37.604649,"Rosselkhoznadzor, 2014"
+Russia,Ryazan,Рязанская обл. пос. Высокое ,54.52299,39.413911,"Baranchikov, 2013"
+Russia,Ryazan,Ryazan,54.614913,39.700959,"Baranchikov, 2013 "
+Russia,Smolensk,"Смоленская обл., Вяземский р-н, 211-12",55.302429,34.497554,"Baranchikov, Kurteev, 2012"
+Russia,Smolensk,"Смоленская область, Вяземский р-н, Хмелита 231-232",55.403931,33.888961,"Baranchikov, Kurteev, 2012"
+Russia,Smolensk,"Смоленская обл., Вяземский р-н, 190",55.415084,34.772212,"Baranchikov, Kurteev, 2012"
+Russia,Smolensk,"Смоленская обл., Гагаринский р-н, 160 км шоссе",55.493128,35.211665,"Baranchikov, Kurteev, 2012"
+Russia,Smolensk,"На запад златка расселилась до д. Семиречье под Смоленском (365 км от Москвы) и приблизилась вплотную к границе России с Беларусью (расстояние до границы менее 60 км) (Звягинцев и др., 2015).",54.889998,32.070727,"Zvyagintsev, 2015 "
+Russia,Smolensk,"Смоленская обл., Андрейково под Вязьмой",55.235955,34.257056,"Zvyagintsev, 2015 "
+Russia,Smolensk,Смоленск ,54.798123,32.033169,"Baranchikov, Seraya, 2018"
+Russia,Tambov,"Тамбовская область, Мичуринский район, Мичуринск",52.89777,40.49681,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Tula,"Тульская область, Щекинский район, поселок Щекино Shchekino ",53.988075,37.63121,"Straw et al., 2013"
+Russia,Tula,"Тульская область, Тула",54.195788,37.619934,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Tver,"Тверская область, Зубцовский район west side of Zubstov Small numbers of D-shaped exit holesand A. planipennis larvae were found on upper branches of twotrees that were felled, and adult feeding damage was evident onthe foliage",56.175951,34.581187,"Straw et al., 2013"
+Russia,Tver,"Тверская область, Конаковский район, Новозавидовский Novozavidoskiy ",56.551258,36.433204,"Straw et al., 2013"
+Russia,Tver,"Тверская область, Калининской район 2 km west of Emmaus roadside planting of F. pennsylvanica ",56.78343,36.090041,"Straw et al., 2013"
+Russia,Tver,"Тверская область, Конаково",56.712044,36.76815,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Tver,"Тверь, поселок Химинститута ",56.798589,36.028667,Observations by E.Yu. Peregudova
+Russia,Tver,"Тверь, Дорошиха",56.868084,35.838773,"Selikhovkin et al., 2018"
+Russia,Vladimir,"Владимирская обл., г. Петушки ",55.933628,39.455709,"Baranchikov, 2013"
+Russia,Volgograd,"Волгоград Судя по всему, этот вид у нас уже не менее 5 и более лет. На острове Сарпинский повреждения ясеня практически сплошные, более 170 га. Нашли златку в черте города и в Волгоахтубинской пойме.Это все на Пенсильванском ясене.",48.598459,44.494489,Observations by E.V. Komarov
+Russia,Voronezh,"Воронежская область, Воронеж",51.683625,39.181366,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
+Russia,Voronezh,"Воронежская обл., Россошанское лесничество: Ольховатское участковое лесничество: Урочище ""Чехово""",50.281156,39.289769,"Rosselkhoznadzor, 2019"
+Russia,Voronezh,"Воронежская обл., Таловая",51.114609,40.71958,"Baranchikov et al., 2018"
+Russia,Voronezh,Novobelaya,49.822285,39.301783,Baranchikov and Seraya 2019
+Russia,Yaroslavl,Ярославль,57.626486,39.872788,Observations by M.J. Orlova-Bienkowskaja and A.O. Bienkowski
