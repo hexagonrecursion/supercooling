@@ -11,8 +11,11 @@ Inputs:
     * `d6867180-6444-4fd0-bda7-480197f76239.nc`
     
 Outputs:
-*  where, when and how low did the temperature fall (csv)
+* where, when and how low did the temperature fall for each point in the EAB range (csv)
     * `result.txt`
+    
+* minimum dayly average temperature for each point on the input grid (csv)
+    * `min-temperature-map.txt`
     
 Notes:
 
